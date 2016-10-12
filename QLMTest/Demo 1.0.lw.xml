@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<licensewizard xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  QlmCloseFormOnFinish="false"
+  QlmMessageTrial=""
+  QlmMessageRemainingDays="{0} of {1} days remain for your trial."
+  QlmMessageExpired="Your trial period has expired."
+  QlmFormBackColor="NamedColor:GhostWhite"
+  QlmFormBackColor2="NamedColor:LightBlue"
+  QlmFormCurvature="12"
+  QlmForeColorControls="NamedColor:DimGray"
+  QlmForeColorText="NamedColor:Black"
+  QlmForeColorResult="NamedColor:DimGray"
+  QlmGlowColor="NamedColor:AliceBlue"
+  QlmProductForeColor="NamedColor:Black"
+  QlmProductImageBase="iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAABCFJREFUaEPtmEtoVVcUhi9RqAYHpaXgs1JJ0IjFBz4IFAoOHJSChIL1MRURR520GpBEjDrSgRPFgXTS0kkRiuBELQiCONBBhU4qEgeilVJBFKtU4/cf/n3YOefcZ+7JuYP88JGbvfZe61/37rPvTmpzmlOFGhwcXAh74Rf4C/6Dt/AP3IQTsNbTe0eY6oND8ASmmvAOfoMBL69Wwxs++wgzV22uHV7AHqepRjb/R2Rqas3qgUkY5fVG6Ie+TZ+vWsLYCK9/hf8hzH/H+AGnm11RXNsmfue11yfgA08pFPFN8CeEdWpozByGXTS1zNPLE4W052Pz+xxqKuZ+CLe9tgh9Mr+vGxrY7iXdFQV02sQP7IRDLYs1i+FplKMeF2GBl3VHJNRRmRTgnZrkZ8NtU0+sOwgP4Uc4DqfhGryBuInr0L0mSKZzPjQw6uG2Nb774/nk6POvqRhbDj+HGuaiwzMXyfQlFRJv9HDXRe4jUZ2prj0TJNM3bEjc7+FSRP70k9CD7eHORBKdHidDQpPbAt0U+bWdwjOh06mzI5bFX8IjJ0rhY13qKaWJOnqwQ81dHm5dLPoaXkdJRHJ68I6s8rTSRB2dTqHuYQ+3JhYMge4tIcETTH/Lz1K3Tixq6YgN9fXt/4lDzcXkG9FinT4rHJo1UVPfE8GDHubHsNXh+mKy9n1YqC20zqFZFXV/gLv2EXgGQ55SLCZciBac93Bl4l3/Ch/x9eMO1N/KBNNbI4u/8HClwsd6/LwMvuAbh/Ii+CpM5O6/yMOVCz/60zQ0cMnDeRHUNTlMnOfhjvTgTG0BjJsZXczwopMx+Hrk4bwI/h1NXOnhtmXzV2DK6HXHTfgSGHy99XBeBNO/uNh7+z3clmTUhoP5GTeBH11pQgMvPZwXwe+iiffUuUMtSQZtNGs+0FETeNkZ+brr4bz8R/vzaPIJh5pKxmywyHhMW03gYR7cijydcqhYTPg+mpw00eyTkCEbKzJcREtNUFvmz0VedK1v/GwyQYuueEHgnp4Jfq6EaaeTjNhQkdFG1G2CGtrz2jbxOy+OekpjMVH/38k2kUIz/3Kt3iwDNlJksBWSJpRLOYtqRfwErV8omaxPQtspfibEC4ptUWEbKDLWDkkTyqncmVpC2+YodHYb9oOt00lHrO4lR3Zs+7SPopcjEzPlsnLShP7DJ9O6Ougydwo6/j6qKwqOZAx0gxGnL18UG8sUj2m0rRrFxpy+fFHsWKZ4INnPmbGYRs/NMacvXyqWKS4S845nYwmO1Wui0gZS81ImluJwvSYqa2CaeSmKTcPhRPyebWJWG9AdX0Vz5iXHcjicirG4iXEPly+KDcNZKLwK2FAOh6eJcTWhXMMeql7BcBaHe19F5oXDva8i88Lh3tf907XJrHmNOTynOfWOarX3rG1K7XsMJ9gAAAAASUVORK5CYII="
+  QlmActivationMethodTitleForeColor="NamedColor:Black"
+  QlmActivationMethodTitleImage="iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAABCFJREFUaEPtmEtoVVcUhi9RqAYHpaXgs1JJ0IjFBz4IFAoOHJSChIL1MRURR520GpBEjDrSgRPFgXTS0kkRiuBELQiCONBBhU4qEgeilVJBFKtU4/cf/n3YOefcZ+7JuYP88JGbvfZe61/37rPvTmpzmlOFGhwcXAh74Rf4C/6Dt/AP3IQTsNbTe0eY6oND8ASmmvAOfoMBL69Wwxs++wgzV22uHV7AHqepRjb/R2Rqas3qgUkY5fVG6Ie+TZ+vWsLYCK9/hf8hzH/H+AGnm11RXNsmfue11yfgA08pFPFN8CeEdWpozByGXTS1zNPLE4W052Pz+xxqKuZ+CLe9tgh9Mr+vGxrY7iXdFQV02sQP7IRDLYs1i+FplKMeF2GBl3VHJNRRmRTgnZrkZ8NtU0+sOwgP4Uc4DqfhGryBuInr0L0mSKZzPjQw6uG2Nb774/nk6POvqRhbDj+HGuaiwzMXyfQlFRJv9HDXRe4jUZ2prj0TJNM3bEjc7+FSRP70k9CD7eHORBKdHidDQpPbAt0U+bWdwjOh06mzI5bFX8IjJ0rhY13qKaWJOnqwQ81dHm5dLPoaXkdJRHJ68I6s8rTSRB2dTqHuYQ+3JhYMge4tIcETTH/Lz1K3Tixq6YgN9fXt/4lDzcXkG9FinT4rHJo1UVPfE8GDHubHsNXh+mKy9n1YqC20zqFZFXV/gLv2EXgGQ55SLCZciBac93Bl4l3/Ch/x9eMO1N/KBNNbI4u/8HClwsd6/LwMvuAbh/Ii+CpM5O6/yMOVCz/60zQ0cMnDeRHUNTlMnOfhjvTgTG0BjJsZXczwopMx+Hrk4bwI/h1NXOnhtmXzV2DK6HXHTfgSGHy99XBeBNO/uNh7+z3clmTUhoP5GTeBH11pQgMvPZwXwe+iiffUuUMtSQZtNGs+0FETeNkZ+brr4bz8R/vzaPIJh5pKxmywyHhMW03gYR7cijydcqhYTPg+mpw00eyTkCEbKzJcREtNUFvmz0VedK1v/GwyQYuueEHgnp4Jfq6EaaeTjNhQkdFG1G2CGtrz2jbxOy+OekpjMVH/38k2kUIz/3Kt3iwDNlJksBWSJpRLOYtqRfwErV8omaxPQtspfibEC4ptUWEbKDLWDkkTyqncmVpC2+YodHYb9oOt00lHrO4lR3Zs+7SPopcjEzPlsnLShP7DJ9O6Ougydwo6/j6qKwqOZAx0gxGnL18UG8sUj2m0rRrFxpy+fFHsWKZ4INnPmbGYRs/NMacvXyqWKS4S845nYwmO1Wui0gZS81ImluJwvSYqa2CaeSmKTcPhRPyebWJWG9AdX0Vz5iXHcjicirG4iXEPly+KDcNZKLwK2FAOh6eJcTWhXMMeql7BcBaHe19F5oXDva8i88Lh3tf907XJrHmNOTynOfWOarX3rG1K7XsMJ9gAAAAASUVORK5CYII="
+  QlmActivationMethodCaptionForeColor="NamedColor:DimGray"
+  QlmFloatingLicenseCaptionForeColor="NamedColor:DimGray"
+  QlmFormatLicenseKey="true"
+  QlmFormatLicenseKeyGroupSize="5"
+  QlmProductName="Demo" xmlns="http://soraco.co/schema/2">
+  <QlmEvaluationLicenseKey />
+  <QlmFontLabels>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>Point</GraphicsUnit>
+    <Size>12</Size>
+    <Style>Regular</Style>
+  </QlmFontLabels>
+  <QlmFontButtons>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>World</GraphicsUnit>
+    <Size>12</Size>
+    <Style>Regular</Style>
+  </QlmFontButtons>
+  <QlmFontRadioButtons>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>Point</GraphicsUnit>
+    <Size>12</Size>
+    <Style>Regular</Style>
+  </QlmFontRadioButtons>
+  <QlmFontText>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>Point</GraphicsUnit>
+    <Size>12</Size>
+    <Style>Regular</Style>
+  </QlmFontText>
+  <QlmFontResult>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>Point</GraphicsUnit>
+    <Size>12</Size>
+    <Style>Regular</Style>
+  </QlmFontResult>
+  <QlmShowProxyButton>true</QlmShowProxyButton>
+  <QlmWizardTitle>QLM License  Wizard</QlmWizardTitle>
+  <QlmWizardTitleIcon />
+  <QlmProductTitle>Demo</QlmProductTitle>
+  <QlmProductFont>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>World</GraphicsUnit>
+    <Size>24</Size>
+    <Style>Regular</Style>
+  </QlmProductFont>
+  <QlmActivationMethodTitle>License Activation</QlmActivationMethodTitle>
+  <QlmActivationMethodTitleFont>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>World</GraphicsUnit>
+    <Size>24</Size>
+    <Style>Regular</Style>
+  </QlmActivationMethodTitleFont>
+  <QlmActivationMethodCaption>Select the operation you want to perform. If you are connected to the internet, you can activate your license automatically online. Otherwise, select Offline activation and contact us to request your computer bound license key.</QlmActivationMethodCaption>
+  <QlmActivationMethodCaptionFont>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>Point</GraphicsUnit>
+    <Size>12</Size>
+    <Style>Regular</Style>
+  </QlmActivationMethodCaptionFont>
+  <QlmTryButtonCaption>Try &gt;</QlmTryButtonCaption>
+  <QlmBuyNowCaption>Buy Now...</QlmBuyNowCaption>
+  <QlmBuyNowUrl>https://soraco.co/pricing/</QlmBuyNowUrl>
+  <QlmShowWizardVersion>true</QlmShowWizardVersion>
+  <QlmShowTryButton>true</QlmShowTryButton>
+  <QlmShowBuyNowButton>true</QlmShowBuyNowButton>
+  <QlmShowWelcomePage>true</QlmShowWelcomePage>
+  <QlmShowOptionsPage>true</QlmShowOptionsPage>
+  <QlmShowOnlineActivationPage>true</QlmShowOnlineActivationPage>
+  <QlmShowOfflineActivationPage>true</QlmShowOfflineActivationPage>
+  <QlmShowDeactivationPage>true</QlmShowDeactivationPage>
+  <QlmShowFloatingLicensePage>false</QlmShowFloatingLicensePage>
+  <QlmShowDeactivate>true</QlmShowDeactivate>
+  <QlmOnlineActivationCaption>Activate my license online</QlmOnlineActivationCaption>
+  <QlmOfflineActivationCaption>Activate my license offline</QlmOfflineActivationCaption>
+  <QlmDeactivateCaption>Deactivate my license</QlmDeactivateCaption>
+  <QlmDeactivatePageCaption>Select the operation you want to perform. If you are connected to the internet, you can activate your license automatically online. Otherwise, select Offline activation and contact us to request your computer bound license key.</QlmDeactivatePageCaption>
+  <QlmWelcomePageCaption>This wizard guides you through the steps required to activate your license.</QlmWelcomePageCaption>
+  <QlmOnlineActivationPageCaption>Select the operation you want to perform. If you are connected to the internet, you can activate your license automatically online. Otherwise, select Offline activation and contact us to request your computer bound license key.</QlmOnlineActivationPageCaption>
+  <QlmFloatingLicensePageCaption>Select the location of the Floating License database and click Register.
+The location should be specified as a UNC path for MS-Access or XML.
+
+Xml Example: \\yourserver\yourshare\floatlicense.xml
+Ms-Access Example: \\yourserver\yourshare\floatlicense.mdb
+SQL Server Example: Data Source=localhost;Initial Catalog=qlmFloating</QlmFloatingLicensePageCaption>
+  <QlmFloatingLicenseCaptionFont>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>Point</GraphicsUnit>
+    <Size>12</Size>
+    <Style>Regular</Style>
+  </QlmFloatingLicenseCaptionFont>
+  <QlmWebServiceUrl>http://quicklicensemanager.com/qlmdemov9/qlmservice.asmx</QlmWebServiceUrl>
+  <EQlmCommunicationEncryptionKey>HHykDIN5/2HliS1Z4IAwlRV8QpsPe8p7imGdwuVEVGuo24JIOuni3HdgIyjTLTv3zv+5YjGSu9/mBMhtnxShFQhkE/mKSi/JNaiTe8yLows=</EQlmCommunicationEncryptionKey>
+  <EQlmFloatingDbPassword>VRq8VevSq1I+VqnmFARInXZoTnzIehs3EeBLGKiYrNE=</EQlmFloatingDbPassword>
+  <EFloatingLicenseMaxOfflineDuration>bLrYDesZeCts/I2i+w8d6A==</EFloatingLicenseMaxOfflineDuration>
+  <QlmValidateCertificate>true</QlmValidateCertificate>
+  <QlmExeWrapperShowWizardBeforeExpiry>-1</QlmExeWrapperShowWizardBeforeExpiry>
+  <QlmEncryptLicenseKeysInStore>true</QlmEncryptLicenseKeysInStore>
+  <EQlmProductID>ZM06VP9JT6mO8c2bBp9/Qw==</EQlmProductID>
+  <QlmMajorVersion>1</QlmMajorVersion>
+  <QlmMinorVersion>0</QlmMinorVersion>
+  <QlmVersion>5.0.00</QlmVersion>
+  <QlmPublicKey>A59Jip0lt73Xig==</QlmPublicKey>
+  <EQlmGUID>HI1KQXqR05eCsvbKIEB4UvWM5ILFfIaYYmVvBBtfJWMDiBOpRGHj2rM9AmSD2VXThl+ZX2XnLdMiMfOf4XPc3vxM2sbjvuk4Lg+Nm+JN/Fs=</EQlmGUID>
+  <QlmLicenseType>ComputerName</QlmLicenseType>
+  <QlmStoreKeysLocation>ERegistry</QlmStoreKeysLocation>
+  <QlmOverrideKeyStoreRegistry />
+  <QlmStoreKeysOptions>EStoreKeysPerUserAndMachine</QlmStoreKeysOptions>
+  <QlmEvaluationPerUser>true</QlmEvaluationPerUser>
+  <QlmFavorMachineLevelLicenseKey>false</QlmFavorMachineLevelLicenseKey>
+  <QlmEnableMultiByte>true</QlmEnableMultiByte>
+  <QlmEnableSoapExtension>true</QlmEnableSoapExtension>
+</licensewizard>
